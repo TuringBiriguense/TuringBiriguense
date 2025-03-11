@@ -4,7 +4,7 @@
 - 💞️ Mi serĉas kunlabori en: Nu, mi tre ŝatas malfermfontajn projektojn, do verŝajne mi kunlaboros kun ĉi tiaj projektoj
 - 📫 Kiel kontakti min: Plorante pro fiasko en algoritmo en la Bloko A
 - 😄 Pronomoj: li/ŝi (jes, kara, mi havas 2 pronomojn)
-- ⚡ Amuza fakto: Mi provis haki YouTube kiam mi havis 8 jarojn
+- ⚡ Amuza fakto: Mi ne parolas esperanto
 
 
   
