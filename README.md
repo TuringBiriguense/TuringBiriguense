@@ -1,6 +1,6 @@
 - 👋 Saluton, mi estas @TuringBiriguense
 - 👀 Mi interesiĝas pri: Ne malsukcesi en miaj algoritmo- kaj retevoluaj testoj
-- 🌱 Mi nuntempe lernas: C++, Python kaj retprogramadajn lingvojn
+- 🌱 Mi nuntempe lernas: C++, Python, C# kaj retprogramadajn lingvojn
 - 💞️ Mi serĉas kunlabori en: Nu, mi tre ŝatas malfermfontajn projektojn, do verŝajne mi kunlaboros kun ĉi tiaj projektoj
 - 📫 Kiel kontakti min: Plorante pro fiasko en algoritmo en la Bloko A
 - 😄 Pronomoj: li/ŝi (jes, kara, mi havas 2 pronomojn)
