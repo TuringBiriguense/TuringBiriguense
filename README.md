@@ -10,7 +10,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="C++ Logo" height="40" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/C%2B%2B.png">
-    <img align="center" alt="C# Logo" height="40" width="40" src="[https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/C%2B%2B.png](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)">
+    <img align="center" alt="C# Logo" height="40" width="40" src="(https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)">
   <img align="center" alt="Html 15 Logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3 Logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Python Logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
